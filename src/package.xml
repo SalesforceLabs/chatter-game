@@ -7,6 +7,7 @@
         <members>ChatterGameGoalAchievementTest</members>
         <members>ChatterGameGoalSetupWizardController</members>
         <members>GamificationTestUtility</members>
+        <members>PaginatedSelectList</members>
         <members>RunBatchCheckController</members>
         <name>ApexClass</name>
     </types>
