@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Run_All_Scheduled_Batch_Achievement_Checks_Now</fullName>
+    <availability>online</availability>
+    <displayType>massActionButton</displayType>
+    <height>600</height>
+    <linkType>url</linkType>
+    <masterLabel>Run All Scheduled Batch Achievement Checks Now</masterLabel>
+    <openType>sidebar</openType>
+    <protected>false</protected>
+    <requireRowSelection>false</requireRowSelection>
+    <url>/apex/RunBatchCheckButton</url>
+    <encodingKey>UTF-8</encodingKey>
+</WebLink>

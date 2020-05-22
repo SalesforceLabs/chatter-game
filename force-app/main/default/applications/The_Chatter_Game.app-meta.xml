@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>Chatter_Game_Getting_Started</defaultLandingTab>
+    <description
+    >The Chatter Game allows your users to earn points by rewarding desired behaviours, like posting on Chatter, following others, and having the most insightful posts as voted by other Chatter users.</description>
+    <label>The Chatter Game</label>
+    <logo>The_Chatter_Game/The_Chatter_Game_App_Logo.png</logo>
+    <tabs>Chatter_Game_Getting_Started</tabs>
+    <tabs>standard-Chatter</tabs>
+    <tabs>Chatter_Game_Goal_Setup_Wizard</tabs>
+    <tabs>Goal__c</tabs>
+    <tabs>Achievement__c</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+</CustomApplication>
