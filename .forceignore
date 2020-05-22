@@ -10,3 +10,11 @@ package.xml
 
 # LWC Jest
 **/__tests__/**
+
+# Standard metadata
+package.xml
+**appMenu
+**appSwitcher
+**objectTranslations
+**profiles
+**settings
