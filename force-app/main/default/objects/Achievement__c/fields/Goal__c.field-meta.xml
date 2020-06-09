@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Goal__c</fullName>
+    <externalId>false</externalId>
+    <label>Goal</label>
+    <referenceTo>Goal__c</referenceTo>
+    <relationshipLabel>Achievements</relationshipLabel>
+    <relationshipName>Achievements</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <trackHistory>true</trackHistory>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>
